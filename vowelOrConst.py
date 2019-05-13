@@ -1,4 +1,5 @@
 # Program to Find wheather a character is Vowel or consonent
+
 def vOrC(chr):
     if chr.lower() in 'aeiou':
         return f"{chr} is a Vowel"
